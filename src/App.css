@@ -1,0 +1,121 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  margin: 0px;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.width-100{
+  width: 100%;
+}
+
+.width-50{
+  width: 50%;
+}
+
+.width-80{
+  width: 80%;
+}
+
+.margin-right-10{
+  margin-right: 10px;
+}
+
+.margin-container-small{
+  margin: 20px auto 20px auto;
+}
+
+.small-width{
+  width: 100px;
+}
+
+.mid-width{
+  width: 250px;
+}
+
+.margin-container{
+  margin: 50px auto 0px auto;
+}
+
+.flex-container{
+  display: flex;
+}
+
+.align-center{
+  align-items: center;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.button {
+  padding: 0.6rem 1.3rem;
+  background-color: #d50000;
+  border: 2px solid #fafafa;
+  font-size: 0.95rem;
+  color: #fff;
+  line-height: 1;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
+
+.font-red{
+  color: #d50000;
+}
+
+.font-small{
+  font-size: 0.8em;
+}
+
+.disable-input{
+  opacity: 0.5;
+}
+
+.page{
+  padding: 10px 15px;
+  border: 1px solid black;
+}
+
+.page:hover{
+  cursor:pointer
+}
+
+.currentPage{
+  background-color: burlywood;
+}
+
+.margin-side-small{
+  margin: 0px 20px;
+}
+
+.hobby{
+  margin: 4px;
+  background: burlywood;
+  padding: 4px;
+  border-radius: 3px;
+}
+
+.input{
+  padding: 5px 5px 5px 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+  width: 150px;
+}
+
+.readOnly{
+  background-color: #f3f3f3;
+}
